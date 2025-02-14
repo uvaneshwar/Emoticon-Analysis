@@ -1,1 +1,1 @@
-# Emoticon-Analysis
+Emoticon Analysis is a project that focuses on analyzing emoticons in textual data to determine sentiment, emotion, and context. The goal is to extract meaningful insights from the usage of emoticons in communication.
